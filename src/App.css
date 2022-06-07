@@ -1,0 +1,25 @@
+.todo {
+  text-align: left;
+  padding-left: 5%;
+  width: 900px;
+}
+
+.background_blue {
+  background: #227fd6;
+}
+
+.background_body {
+  background: #e3e1e1;
+}
+
+.marginTop {
+  margin-top: 13px;
+}
+
+.buttons {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between
+}
+
+
